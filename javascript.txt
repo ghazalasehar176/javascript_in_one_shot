@@ -1,0 +1,26 @@
+INTRODUCTION OF JAVASCRIPT & WHAT IS JAVASCRIPT:
+
+JavaScript was invented by Brendan Eich in 1995
+JavaScript is a programming language used to make web pages interactive and dynamic. It runs in the browser and is used to give instructions to the computer, especially for handling user actions like clicks, form submissions, animations, etc.
+
+CONSOLE.LOG:
+console.log is use to log . log(print) means console kardo .log mai eg: ("hello js ")?
+
+VARIABLE:
+varaible is just like a container. jo ke data store karne ke liye use hota hy . data store hy aik hi varaible mai but jo variable hy uski values change hoti rahy gi 
+
+ALERT BOX :
+alert -> popup box use hota hy , or phir achanak kuch b message dene ke liye use hota hy.
+
+DYNAMICALLY TYPED LANGUAGE :
+variable banaty waqt datatype nhi banani pardti . JavaScript kuhd hi data type samaj leti hy.
+
+ASSIGNMENT OPERATOR :
+means a = b ; 
+in contrast, b ki jo value hy wo a ke andar jakar assign hojaye called assignment operator 
+
+RESERVED WORD OR KEYWORDS :
+switch , console.log , if , function all are reserved or keyword words .
+
+CAMEL CASE :
+fullName , myName , myAddress , ourHome all are Camel case .
