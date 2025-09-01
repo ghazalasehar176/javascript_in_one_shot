@@ -1,0 +1,15 @@
+#box{
+    height: 100px;
+    width: 100px;
+    border: solid 1px black;
+    background-color: dodgerblue;
+    padding: 10px;
+    color: white;
+}
+
+.mypara{
+ color: rebeccapurple;
+}
+.paracontent{
+    background-color: pink;
+}
