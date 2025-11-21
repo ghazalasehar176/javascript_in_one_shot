@@ -1,1 +1,1 @@
-   console.log(numarr[k])
+console.log(reversed)
