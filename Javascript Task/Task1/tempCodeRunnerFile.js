@@ -1,1 +1,1 @@
-console.log(reversed)
+str += number[i]
