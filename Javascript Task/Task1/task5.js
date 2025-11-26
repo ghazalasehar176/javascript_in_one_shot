@@ -63,10 +63,10 @@ let originalStr = user.toLowerCase()
 let reversedStr = user.split('').reverse().join("")
 
 if(originalStr == reversedStr){
-    console.log("Palinfrome word")
+    console.log("Palindrome word")
 }
 else{
-    console.log("Not a palinfrome word")
+    console.log("Not a palindrome word")
 }
 
 console.log("Original string is: "+originalStr)
